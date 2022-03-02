@@ -1,0 +1,13 @@
+@import 'styles';
+
+$font-path: "../fonts";
+
+@font-face {
+    font-family: 'Retroica';
+    font-style: normal;
+    font-weight: 400;
+    src: url('#{$font-path}/RETROICA.TTF');
+    src: local("Retroica");
+}
+
+
